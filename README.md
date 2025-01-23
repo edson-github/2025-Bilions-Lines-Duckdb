@@ -100,7 +100,7 @@ Feel free to open issues or submit PRs to improve this project! 😊
 ### 📩 **Contact**  
 
 For questions or suggestions, feel free to reach out:  
-📧 **your_email@example.com**  
+📧 **edandrade.code@gmail.com**  
 
 ---  
 
