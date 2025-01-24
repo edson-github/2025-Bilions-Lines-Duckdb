@@ -3,6 +3,20 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# files
+*.csv
+*.txt
+*.json
+*.jsonl
+*.jsonl.gz
+*.parquet
+*.parquet.gz
+*.parquet.snappy
+*.parquet.snappy.gz
+*.parquet.snappy.gz.parquet
+*.parquet.snappy.gz.parquet.gz
+
+
 # C extensions
 *.so
 
